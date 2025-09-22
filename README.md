@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Yoann Coualan  
+# 👋, je suis Yoann COUALAN  
 
 🚀 Développeur passionné freelance depuis 2011 et formateur en écoles supérieures, je partage mon temps entre la création de projets web, l'accompagnement d'étudiants et la veille technologique.
 
