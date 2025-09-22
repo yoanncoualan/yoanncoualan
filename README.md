@@ -8,14 +8,6 @@
 - 🌱 Toujours curieux et en quête de nouvelles technos à explorer
 - 📍 Basé à Paris
 
-## 🛠️ Technologies & Outils
-Voici quelques-unes des technologies sur lesquelles je travaille régulièrement :  
-
-- **Frontend** : HTML, CSS, Javascript  
-- **Backend** : PHP, SQL  
-- **Frameworks** : Next.js, TanStack, Symfony  
-- **Outils & workflow** : Git, bonnes pratiques de dev  
-
 ## 🎯 Ce que j’aime
 - Concevoir des solutions web robustes et évolutives  
 - Transmettre mes connaissances et accompagner les futurs collaborateurs
