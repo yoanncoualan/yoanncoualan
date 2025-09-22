@@ -1,4 +1,4 @@
-# 👋, je suis Yoann COUALAN  
+# 👋 Salut, je suis Yoann COUALAN !
 
 🚀 Développeur passionné freelance depuis 2011 et formateur en écoles supérieures, je partage mon temps entre la création de projets web, l'accompagnement d'étudiants et la veille technologique.
 
@@ -18,11 +18,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CD6799?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🔹 Backend & Bases de données
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-34b27b?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🔹 Frameworks  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
